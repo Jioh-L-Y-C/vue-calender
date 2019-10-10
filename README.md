@@ -14,7 +14,8 @@
 	
 ## Demo
  -- 可以直接把源码down下来，根据需求自己可以在源码上面添加插槽，我当时项目的需求是一个可以选择的日历，显示那天可以预约，那天不可以预约或满员
- ## --图片 !["请刷新"](https://raw.githubusercontent.com/Jioh-L-Y-C/vue-calender/master/images/img.png 示例图)
+ ### --图片（示例图） 
+ #### ![](https://raw.githubusercontent.com/Jioh-L-Y-C/vue-calender/master/images/img.png)
 ## 附上作者的地址
 ## [github地址](https://github.com/zwhGithub/vue-calendar) 详细文档
 
